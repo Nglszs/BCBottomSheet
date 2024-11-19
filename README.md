@@ -10,7 +10,9 @@ ScreehShot:
 Features：
 
 1.Gesture control pop-up window changes, while adding animation
+
 2.The top horizontal bar button can be clicked to control the height change of the pop-up window
+
 3.We have resolved conflicts between sliding gestures and uiscrollview or uitableview and UIcollection
 
 Usage：
