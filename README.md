@@ -1,5 +1,5 @@
 
-OC version 100% restores the bottom gesture pop-up, similar to the bottom of Apple Maps
+BottomSheet OC version 100% restores the bottom gesture pop-up, similar to the bottom of Apple Maps
 This is a bottom sliding gesture pop-up window. I have already handled the gesture conflicts for you, including sliding gestures and uitableview conflicts
 
 ScreehShot:
